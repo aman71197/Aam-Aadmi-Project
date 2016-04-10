@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Aam Aadmi Project</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="forms_array">
+        <item>"Aadhaar Card"</item>
+        <item>"Voter's ID"</item>
+        <item>"PAN card"</item>
+    </string-array>
+    <string-array name="schemes_array">
+        <item>"Sarv Shiksha Abhiyan"</item>
+        <item>"Jandhan Yojana"</item>
+
+    </string-array>
+    <string-array name="exams_array">
+        <item>"JEE"</item>
+        <item>"IAS"</item>
+
+    </string-array>
+    <string name="title_activity_details">Details</string>
+    <string name="title_activity_data">data</string>
+    <string name="title_activity_data2">data2</string>
+</resources>
